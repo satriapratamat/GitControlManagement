@@ -1,5 +1,5 @@
 angka1=29
-angka2=33
+angka2=19
 
 #operasi pertambahan dua bilangan
 sum=$((angka1+angka2))
