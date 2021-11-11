@@ -1,4 +1,4 @@
 echo Git Management Control
 echo Hello Satria
-echo Apa ada update?
+echo Update paling fix
 echo Tugas Git Management Control
