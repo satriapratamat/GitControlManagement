@@ -1,2 +1,4 @@
 echo Git Management Control
-echo Hello World
+echo Hello Satria
+echo Apa kabar?
+echo Semoga dalam keadaan baik
