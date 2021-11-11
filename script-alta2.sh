@@ -5,4 +5,5 @@ angka2=10
 sum=$((angka1*angka2))
 echo maka $angka1 + $angka2 = $sum
 
+#ini perubahan pada feature1
 
